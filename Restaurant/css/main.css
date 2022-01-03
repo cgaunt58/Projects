@@ -1,0 +1,39 @@
+
+body {
+    background-image: url(../imgaes/noodles2.jpg) ;
+    background-size: cover;
+  }
+
+
+
+.navbar navbar-expand-lg navbar-light bg-light{
+  padding-top: 15px;
+}
+.title {
+display: flex;  
+align-items: center;
+width: 600px;
+text-align: center;
+color: goldenrod;
+margin-top: 200px;
+margin-left: 25px;
+}
+.caption{
+  display: flex;
+  color:goldenrod;
+}
+.info{
+  color:goldenrod;
+}
+.menu{
+  color:goldenrod;
+  margin: 25px;
+}
+.address{
+  margin: 50px;
+  color:goldenrod;
+}
+.map{
+  height:30px;
+  width:30px;
+}
